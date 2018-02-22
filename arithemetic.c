@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main()
+void main()
 {
 	int n,a,d,i,sum;
 	printf("enter the value of n:");
